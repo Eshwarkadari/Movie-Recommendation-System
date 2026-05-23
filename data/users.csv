@@ -1,0 +1,11 @@
+user_id,username,age,gender,city,subscription,joined_date
+1,ravi_k,28,Male,Hyderabad,Premium,2022-01-15
+2,priya_s,25,Female,Mumbai,Basic,2022-03-10
+3,amit_p,32,Male,Ahmedabad,Premium,2021-11-05
+4,sneha_r,27,Female,Bangalore,Free,2023-01-20
+5,vikram_s,35,Male,Delhi,Premium,2021-08-12
+6,anita_j,29,Female,Pune,Basic,2022-06-18
+7,rahul_n,31,Male,Chennai,Premium,2022-02-22
+8,deepika_r,24,Female,Kolkata,Free,2023-04-09
+9,suresh_m,38,Male,Kochi,Basic,2021-09-14
+10,kavya_i,26,Female,Hyderabad,Premium,2022-07-30
