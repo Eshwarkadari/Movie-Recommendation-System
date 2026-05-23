@@ -1,0 +1,21 @@
+movie_id,title,genre,sub_genre,release_year,director,language,duration_min,avg_rating
+1,Inception,Sci-Fi,Thriller,2010,Christopher Nolan,English,148,4.8
+2,The Dark Knight,Action,Crime,2008,Christopher Nolan,English,152,4.9
+3,Interstellar,Sci-Fi,Drama,2014,Christopher Nolan,English,169,4.7
+4,The Matrix,Sci-Fi,Action,1999,Wachowski Sisters,English,136,4.7
+5,Avengers Endgame,Action,Fantasy,2019,Russo Brothers,English,181,4.6
+6,Dune,Sci-Fi,Adventure,2021,Denis Villeneuve,English,155,4.5
+7,Blade Runner 2049,Sci-Fi,Thriller,2017,Denis Villeneuve,English,164,4.4
+8,Tenet,Sci-Fi,Action,2020,Christopher Nolan,English,150,4.2
+9,Parasite,Drama,Thriller,2019,Bong Joon-ho,Korean,132,4.9
+10,The Shawshank Redemption,Drama,Crime,1994,Frank Darabont,English,142,4.9
+11,Forrest Gump,Drama,Romance,1994,Robert Zemeckis,English,142,4.8
+12,The Godfather,Crime,Drama,1972,Francis Coppola,English,175,4.9
+13,Pulp Fiction,Crime,Thriller,1994,Quentin Tarantino,English,154,4.8
+14,Joker,Drama,Crime,2019,Todd Phillips,English,122,4.5
+15,Spider-Man No Way Home,Action,Fantasy,2021,Jon Watts,English,148,4.6
+16,RRR,Action,Historical,2022,SS Rajamouli,Telugu,187,4.7
+17,Baahubali 2,Action,Historical,2017,SS Rajamouli,Telugu,167,4.6
+18,3 Idiots,Comedy,Drama,2009,Rajkumar Hirani,Hindi,170,4.8
+19,Dangal,Drama,Sport,2016,Nitesh Tiwari,Hindi,161,4.7
+20,KGF Chapter 2,Action,Crime,2022,Prashanth Neel,Kannada,168,4.5
